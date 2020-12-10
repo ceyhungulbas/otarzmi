@@ -5,8 +5,9 @@ TR <br><br>
 <br>
 Not: <br>
 soru.html kısmındaki formu doldurup göndermeyin. Örnek olsun diye ekledim, yazdıklarınız mail adresime ulaşacaktır... :>
-<br>
+
 ~~
+<br>
 EN <br><br>
 I made a website for a podcast called "O Tarz Mı? Podcast". The current website was a little worn out, I wanted to take the initiative and renew it. <br>
 <br>
